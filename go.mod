@@ -1,4 +1,4 @@
-module github.com/liamg/furious
+module github.com/leofigy/furious
 
 go 1.12
 
